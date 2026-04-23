@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DAA_Pathfinder.dir/objects.a
-C:\mingw64\bin\ar.exe qc CMakeFiles\DAA_Pathfinder.dir/objects.a @CMakeFiles\DAA_Pathfinder.dir\objects1.rsp
-C:\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\DAA_Pathfinder.dir/objects.a -Wl,--no-whole-archive -o "C:\Users\Lovish\Desktop\DAA project\bin\DAA_Pathfinder.exe" -Wl,--out-implib,libDAA_Pathfinder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DAA_Pathfinder.dir\linkLibs.rsp
