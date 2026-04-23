@@ -1,4 +1,4 @@
-# BFS & DFS Map Pathfinder — DAA College Project
+# BFS & DFS Map Pathfinder
 
 A C++ application that loads **real OpenStreetMap data** and lets you visually compare **Breadth-First Search** vs **Depth-First Search** pathfinding on an actual road network.
 
